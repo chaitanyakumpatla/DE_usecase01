@@ -1,0 +1,16 @@
+date,store_id,customer_id,payment_type,quantity_sold,unit_price,total_sales,transaction_id,city,region
+2024-09-01,101,1001,Credit,5,50.0,250,5001,New York,East
+2024-09-02,102,1002,Debit,3,60.0,180,5002,Los Angeles,West
+2024-09-03,103,1003,Cash,1,55.0,55,5003,Chicago,Midwest
+2024-09-04,104,1004,Credit,2,70.0,140,5004,Houston,South
+2024-09-05,105,1005,Debit,4,45.0,180,5005,Phoenix,West
+2024-09-01,201,2001,Cash,2,75.0,150,6001,Austin,South
+2024-09-02,202,2002,Credit,4,85.0,340,6002,Dallas,South
+2024-09-03,203,2003,Debit,5,65.0,325,6003,San Francisco,West
+2024-09-04,204,2004,Cash,1,55.0,55,6004,Seattle,Northwest
+2024-09-05,205,2005,Credit,3,45.0,135,6005,Portland,Northwest
+2024-09-01,301,3001,Credit,3,90.0,270,7001,San Diego,West
+2024-09-02,302,3002,Cash,5,40.0,200,7002,Las Vegas,West
+2024-09-03,303,3003,Debit,2,60.0,120,7003,Miami,South
+2024-09-04,304,3004,Credit,4,75.0,300,7004,Orlando,South
+2024-09-05,305,3005,Cash,1,85.0,85,7005,Atlanta,East

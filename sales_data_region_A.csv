@@ -1,0 +1,6 @@
+Date,Store_ID,Customer_ID,Payment_Type,Quantity_Sold,Unit_Price,Total_Sales,Transaction_ID,City,Region
+2024-09-01,101,1001,Credit,5,50.0,250,5001,New York,East
+2024-09-02,102,1002,Debit,3,60.0,180,5002,Los Angeles,West
+2024-09-03,103,1003,Cash,1,55.0,55,5003,Chicago,Midwest
+2024-09-04,104,1004,Credit,2,70.0,140,5004,Houston,South
+2024-09-05,105,1005,Debit,4,45.0,180,5005,Phoenix,West
